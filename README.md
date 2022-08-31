@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jathom30
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning canvas
+- 🌱 I’m currently Remix
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/jeff-a-thomas/)
 
